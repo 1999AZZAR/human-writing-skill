@@ -1,0 +1,4 @@
+interface:
+  display_name: "Human Writing"
+  short_description: "Standards for professional, human-like technical writing."
+  default_prompt: "Write a README for my new project in a professional tone."
